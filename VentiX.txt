@@ -1,6 +1,5 @@
--- Gui to Lua
--- Version: 3.2
-
+--VentiX
+--Discord/Key -- https://discord.gg/cNKNd6U5xB
 -- Instances:
 
 local Venti = Instance.new("ScreenGui")
